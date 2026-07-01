@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Website-4285F4?logo=googlechrome&logoColor=white)](https://kaushikrajbongshi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Website-4285F4?logo=googlechrome&logoColor=white)](https://kaushikrajbongshi.in/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kaushik_rajbongshi_5.8.17.18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikrajbongshi)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/kaushikraj001)
@@ -118,7 +118,7 @@ I'm actively looking for **internship & junior full-stack roles**. Reach out —
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikrajbongshi)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kaushikraj001)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikraj0241@gmail.com)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+[![Portfolio](https://img.shields.io/badge/Website-4285F4?logo=googlechrome&logoColor=white)](https://kaushikrajbongshi.in/)
 
 <br/>
 
